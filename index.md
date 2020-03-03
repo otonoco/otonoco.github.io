@@ -22,7 +22,7 @@ With a little patience"
 
 ### Some Boring Stuff
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otonoco/otonoco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+It is my first day for blogging. I am still learning how to deploy a customized blog website using Jekyll. 3/2/2020.
 
 ### Contact Information
 
