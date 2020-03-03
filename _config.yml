@@ -3,3 +3,4 @@ title: Otonoco's Blog
 author: Mercury Lau
 language: "en"
 timezone: America/Chicago
+markdown: kramdown
