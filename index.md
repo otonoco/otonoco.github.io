@@ -22,7 +22,7 @@ With a little patience"
 
 ### Some Boring Stuff
 
-It is my first day for blogging. I am still learning how to deploy a customized blog website using Jekyll. 3/2/2020.
+It is my first day of blogging. I am still learning how to deploy a customized blog website using Jekyll. 3/2/2020.
 
 ### Contact Information
 
