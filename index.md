@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-I am currently a sophomore college student studying Electrical Engineering and Mathematics with a minor in Computer Science living in Chicago, IL. Extracurricularly, I watch football games (both American and British football), read fiction novels, and write political reviews. 
+From Chengdu, China, I am a sophomore college student studying Electrical Engineering and Mathematics with a minor in Computer Science currently at Chicago, IL. Extracurricularly, I watch football games (both American and British football), read fiction novels, and write political reviews. 
 
 ### Recent Update
 
