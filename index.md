@@ -22,6 +22,8 @@ With a little patience"
 
 ### Some Boring Stuff
 
+I just submitted my summer internship application to some of the most prestigious hedge funds, including Citadel, Two Sigma, SIG, and Jane Street. With all good luck I wish the interviewers would appreciate my attitude to learn and talent. 3/5/2020.
+
 It is my first day of blogging. I am still learning how to deploy a customized blog website using Jekyll. 3/2/2020.
 
 ### Contact Information
